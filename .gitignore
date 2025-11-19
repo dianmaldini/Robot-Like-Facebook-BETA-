@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Virtual Environment
+venv/
+env/
+Scripts/
+
+# Application Data
+profile_fb/
+hasil_scrape/
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
